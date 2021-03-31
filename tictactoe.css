@@ -1,0 +1,12 @@
+h1 {
+    color:cadetblue;
+}
+
+td {
+    border-width: 7px;
+    width: 150px;
+    height: 150px;
+    border-color: cadetblue;
+    text-align: center;
+    font-size: 90px;
+}
